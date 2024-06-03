@@ -3,13 +3,21 @@ body        {
     padding: 20px;
 }
 
+footer {
+    color: gray
+}
+
 h1          {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blue;
 }
 
-footer {
-    color: gray
+h2      {
+    color: magenta;
+}
+
+h3      {
+    color: maroon;
 }
 
 h4      {
@@ -17,5 +25,6 @@ h4      {
 }
 
 li  {
-    color: rebeccapurple;
+    color: green;
+
 }
